@@ -1,5 +1,11 @@
 # ninja-jobs
 
+````
+## Json Server for fetching
+yarn json-server --watch data/db.json
+
+````
+
 ## Project setup
 ```
 yarn install
